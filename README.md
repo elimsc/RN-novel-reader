@@ -1,5 +1,9 @@
 # RN-novel-reader
 
 ```
-$ npm start
+$ npm install -g expo-cli
+```
+```
+$ yarn
+$ yarn start
 ```
