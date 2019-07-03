@@ -10,4 +10,4 @@ $ npm install -g expo-cli
 ```
 $ yarn
 $ yarn start
-``
+```
